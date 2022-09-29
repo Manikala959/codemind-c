@@ -12,12 +12,11 @@ int main()
     }
     if(sum==p)
     {
-        printf("Spy Number");
-        
+      printf("Spy Number");
     }
     else
     {
         printf("Not Spy Number");
     }
-    return 0;
+      
 }
